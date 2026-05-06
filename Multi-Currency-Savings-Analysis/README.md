@@ -1,30 +1,32 @@
-# 🏋️ Fitness Performance Tracking Dashboard
+# 💰 Multi-Currency Savings & Financial Behavior Analysis
 
 ## 📌 Objective
-To track and analyze workout performance, body metrics, and fitness progress over time.
+To track and analyze savings patterns over time, including conversion from local currency (NGN) to USD, in order to understand financial behavior and improve savings strategy.
 
 ## 🛠 Tools Used
 - Microsoft Excel
 
 ## 🧹 Data Preparation
-- Recorded daily workout data and body measurements  
-- Structured dataset for consistency across time periods  
-- Created calculated fields for performance tracking  
+- Recorded periodic savings in Nigerian Naira (NGN)
+- Tracked currency conversion into USD
+- Structured dataset for consistent time-based analysis
+- Created calculated fields for balances, totals, and currency differences
 
 ## 🔍 Analysis
-- Tracked workout consistency over time  
-- Analyzed trends in body metrics (e.g., weight, reps, sets)  
-- Measured progress across different exercises  
+- Analyzed savings trends over time
+- Compared local currency savings vs USD holdings
+- Evaluated consistency and growth patterns in contributions
+- Assessed the impact of currency conversion on total savings value
 
 ## 📊 Dashboard
 ![Dashboard](dashboard.png)
 
 ## 🔍 Key Insights
-- Identified improvement trends in strength and endurance  
-- Highlighted consistency patterns in workout routines  
-- Detected plateaus in performance  
+- Savings contributions showed varying consistency across periods  
+- Converting to USD helped preserve value against currency fluctuations  
+- Certain periods reflected stronger saving discipline than others  
 
 ## 💡 Recommendations
-- Maintain consistency in training schedule  
-- Adjust workout intensity to overcome plateaus  
-- Track metrics regularly to monitor progress  
+- Maintain consistent contribution patterns to improve savings growth  
+- Increase allocation to stable currencies to hedge against inflation  
+- Monitor savings trends regularly to improve financial discipline  
