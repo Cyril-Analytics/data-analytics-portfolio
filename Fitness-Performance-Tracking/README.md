@@ -61,7 +61,7 @@ The **Personal Body Metrics Dashboard** monitors physiological changes and body 
 
 * **Measurement Change Tracking:** Highlights net variances across body parts, showing gains and reductions such as a **+2.5 cm** change in thighs, **+2.8 cm** in chest and waist, and **-1.0 cm** in arms.
 
-(body-metrics-dashboard.png)
+![Body Metrics Dashboard](body-metrics-dashboard.png)
 
 ---
 
