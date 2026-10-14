@@ -45,7 +45,7 @@ The **Personal Fitness Performance Dashboard** provides a macro and micro view o
 
 * **Interactive Slicers:** Allows filtering by Workout Type, Year (2026), Status, and Unit (Reps vs. Secs).
 
-(exercise-dashboard.png)
+![Exercise Performance Dashboard](exercise-dashboard.png)
 
 ---
 
